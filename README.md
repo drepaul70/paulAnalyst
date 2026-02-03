@@ -1,4 +1,4 @@
-# Hi there, I'm K.P. Asaolu Data Analyst
+# Hi there, I'm K.P. Asaolu, a Data Analyst.
 
 ---
 
